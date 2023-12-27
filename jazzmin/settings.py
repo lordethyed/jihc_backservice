@@ -72,6 +72,7 @@ DEFAULT_SETTINGS: Dict[str, Any] = {
         "library.Author": "fas fa-user",
         "library.Book": "fas fa-book",
         "library.Genre": "fas fa-quote-left",
+        "news.Article" : "fas fa-quote-left"
     },
     # Icons that are used when one is not manually specified
     "default_icon_parents": "fas fa-chevron-circle-right",
